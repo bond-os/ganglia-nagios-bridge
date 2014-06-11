@@ -28,6 +28,7 @@ import socket
 import tempfile
 import time
 import xml.sax
+import logging
 
 # wrapper class so that the SAX parser can process data from a network
 # socket
